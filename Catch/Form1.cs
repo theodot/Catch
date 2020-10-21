@@ -8,13 +8,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// minor changes made
+
 namespace Catch
 {
     public partial class Form1 : Form
     {
         int heroX = 280;
         int heroY = 540;
-        int heroWidth = 40;
+        int heroWidth = 80;
         int heroHeight = 10;
         int heroSpeed = 10;
 

@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 // minor changes made
+// second comment
 
 namespace Catch
 {
@@ -16,7 +17,7 @@ namespace Catch
     {
         int heroX = 280;
         int heroY = 540;
-        int heroWidth = 80;
+        int heroWidth = 200;
         int heroHeight = 10;
         int heroSpeed = 10;
 

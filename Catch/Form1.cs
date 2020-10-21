@@ -10,16 +10,19 @@ using System.Windows.Forms;
 
 // minor changes made
 // second comment
+// third comment
 
 namespace Catch
 {
     public partial class Form1 : Form
     {
-        int heroX = 280;
+        
         int heroY = 540;
         int heroWidth = 200;
         int heroHeight = 10;
         int heroSpeed = 10;
+
+        int heroX = 180;
 
         List<int> ballXList = new List<int>();
         List<int> ballYList = new List<int>();
